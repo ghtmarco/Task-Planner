@@ -21,7 +21,7 @@ An intelligent task scheduling system powered by Google's Gemini Flash 2.0 Exp L
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/task-planner.git
+git clone https://github.com/ghtmarco/task-planner.git
 cd task-planner
 ```
 
